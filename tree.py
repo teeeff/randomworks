@@ -82,4 +82,4 @@ for i in elements:
     NewTree.add_child(i)
 NewTree.print_btree()
 NewTree.search_child(2)
-NewTree.search_child(11o
+NewTree.search_child(11)
